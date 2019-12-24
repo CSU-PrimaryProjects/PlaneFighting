@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background001.png</file>
+        <file>brower_001.png</file>
+        <file>brower_002.png</file>
+        <file>brower_003.png</file>
+        <file>boom001.png</file>
+        <file>boom002.png</file>
+        <file>backgroundMusic001.mp3</file>
+        <file>backgroundMusic002.mp3</file>
+        <file>endBackground001.png</file>
+        <file>chooseEn.png</file>
+        <file>chooseMy.png</file>
+        <file>beginBackground.png</file>
+        <file>amofEn002.png</file>
+        <file>amofMy001.png</file>
+        <file>enemy001.png</file>
+        <file>enemy002.png</file>
+        <file>enemy003.png</file>
+        <file>my001.png</file>
+        <file>my002.png</file>
+        <file>amofEn004.png</file>
+        <file>enemy004 .png</file>
+        <file>amofEn003.png</file>
+        <file>amofMy002.png</file>
+        <file>scoresBackground.png</file>
+        <file>tool001.png</file>
+        <file>tool002.png</file>
+        <file>setpageBackground.png</file>
+        <file>background002 .png</file>
+        <file>ruleBackground.png</file>
+    </qresource>
+</RCC>
